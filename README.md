@@ -1,2 +1,3 @@
 # sound-organ
-warning: flashing lights
+Generative Art - the programmed sounds produces colour.
+Warning: flashing lights
